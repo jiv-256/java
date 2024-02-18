@@ -1,0 +1,21 @@
+Why java ? 
+
+-> Simple and easy to learn
+
+-> Open source language
+
+-> Platform independent
+
+-> Secure
+
+-> Enbedded
+
+-> Compiled & interpreted
+
+-> Robust (java has garbage collector which destroy un used object by which memory is not wasted and it also have exception handeling which handle upcoming error)
+
+->Large library & Framework
+
+What is java ?
+Java is a class based , high-level , object-oriented programming language developed by "james Gosling" in year 1995.
+
