@@ -9,7 +9,7 @@ Why java ?
 -> Secure
 
 -> Enbedded
-
+  
 -> Compiled & interpreted
 
 -> Robust (java has garbage collector which destroy un used object by which memory is not wasted and it also have exception handeling which handle upcoming error)
